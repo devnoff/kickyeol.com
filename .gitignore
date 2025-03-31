@@ -51,6 +51,7 @@ firebase-debug.log
 firebase-debug.*.log
 firebase-deploy.log
 firebase-deploy.*.log
+functions/lib/
 
 # IDE
 .idea/
